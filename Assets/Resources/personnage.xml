@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personnages>
+  <personnage Prenom="Julien" Nom="Angèle" Description="J’ai 30 ans, je suis aide-soignant et j’habite à Lyon depuis plusieurs années maintenant. Je ne sais pas si c’est la crise de la trentaine, mais ma vie prend un tournant."/>
+  <personnage Prenom="Sophie" Nom="Roniet" Description="Sophie est ma petite-amie depuis trois ans. Elle est assistante chef de publicité dans un grand groupe. Nous nous sommes installés ensemble l’année dernière."/>
+  <personnage Prenom="Michel" Nom="Talabro" Description="Test3"/>
+  <personnage Prenom="Sonia" Nom="Gorlina" Description="Test4"/>
+  <personnage Prenom="Charles-Henri" Nom="Dubosc" Description="Test5"/>
+  <personnage Prenom="Valérie" Nom="Kérémer" Description="Test6"/>
+  <personnage Prenom="Ghislain" Nom="Chantel" Description="Test7"/>
+  <personnage Prenom="Jules" Nom="Ferdoni" Description="Test8"/>
+  <personnage Prenom="Louis" Nom="Rauth" Description="Test9"/>
+  <personnage Prenom="Marie" Nom="Edena" Description="Test10"/>
+  <personnage Prenom="Aristide" Nom="Leclerc" Description="Test11"/>
+  <personnage Prenom="Anne-Cécile" Nom="Rousseau" Description="Test12"/>
+  <personnage Prenom="Victor" Nom="Le Tallec" Description="Test13"/>
+  <personnage Prenom="Emma" Nom="Sarraute" Description="Test14"/>
+  <personnage Prenom="Pascal" Nom="Brochand" Description="Test15"/>
+  <personnage Prenom="Eric" Nom="Tavernost" Description="Test16"/>
+  <personnage Prenom="Agnès" Nom="Joly-Veron" Description="Test17"/>
+  <personnage Prenom="Nicolas" Nom="Cléroni" Description="Test18"/>
+  <personnage Prenom="Marine" Nom="Lebey" Description="Test19"/>
+  <personnage Prenom="Emmanuelle" Nom="Lebey" Description="Test20"/>
+  <personnage Prenom="Etienne" Nom="Cléroni" Description="Test21"/>
+  <personnage Prenom="Jean" Nom="Bertaudeau" Description="Test22"/>
+  <personnage Prenom="Thibaud" Nom="Sculpin" Description="Test23"/>
+  <personnage Prenom="Alexine" Nom="Marullaz" Description="Test24"/>
+  <personnage Prenom="Arthur" Nom="Guerre" Description="Test25"/>
+  <personnage Prenom="Elliot" Nom="Lamenière" Description="Test26"/>
+  <personnage Prenom="Eloïse" Nom="Beckett" Description="Test27"/>
+  <personnage Prenom="Loïc" Nom="Ponthieur" Description="Test28"/>
+  <personnage Prenom="Geneviève" Nom="Charnière" Description="Test29"/>
+  <personnage Prenom="Pierrick" Nom="Lemarchand" Description="Test30"/>
+  <personnage Prenom="Marcel" Nom="Patulacci" Description="Test31"/>
+  <personnage Prenom="Jean-Pierre" Nom="Botignol" Description="Test32"/>
+  
+</personnages>

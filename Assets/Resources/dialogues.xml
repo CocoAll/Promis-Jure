@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  <dialogue ID="str" TexteDeBase="str" IDNext="int"
+  RelationOption="str" ModEmotion="int" ModConviction="int" Lieu="-1" Note="-1" Journal="str">
+  -->
+
+<dialogues>
+
+  
+  
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 1 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+  
+  
+  <dialogue ID="1002A" TexteDeBase="Oui" IDNext="1006" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="1002B" TexteDeBase="Non" IDNext="1003" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="1009A" TexteDeBase="Oui" IDNext="1010" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="1009B" TexteDeBase="Non" IDNext="1212" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="1014A" TexteDeBase="Oui" IDNext="1015" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="1014B" TexteDeBase="Non" IDNext="1016" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="1214A" TexteDeBase="Oui" IDNext="1215" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="1214B" TexteDeBase="Non" IDNext="1216" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="1019A" TexteDeBase="Oui" IDNext="1030" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="1019B" TexteDeBase="Non" IDNext="1021" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="1023A" TexteDeBase="Oui" IDNext="1024" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="1023B" TexteDeBase="Non" IDNext="1027" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 2 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="2004A" TexteDeBase="Oui" IDNext="2005" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2004B" TexteDeBase="Non" IDNext="2006" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2204A" TexteDeBase="Oui" IDNext="2205" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2204B" TexteDeBase="Non" IDNext="2206" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2009A" TexteDeBase="Oui" IDNext="2010" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2009B" TexteDeBase="Non" IDNext="2013" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2209A" TexteDeBase="Oui" IDNext="2210" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2209B" TexteDeBase="Non" IDNext="2213" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2017A" TexteDeBase="Oui" IDNext="2018" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2017B" TexteDeBase="Non" IDNext="2019" RelationOption="Victor,1" IDNextRO="2919"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2517A" TexteDeBase="Oui" IDNext="2518" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2517B" TexteDeBase="Non" IDNext="2019" RelationOption="Victor,1" IDNextRO="2519"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2218A" TexteDeBase="Oui" IDNext="2219" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="2218B" TexteDeBase="Non" IDNext="2220" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2718A" TexteDeBase="Oui" IDNext="2719" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="2718B" TexteDeBase="Non" IDNext="2720" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <!-- Remettre dialogue 2030A en IDNext="2031" une fois que la vidéo pourra être mise -->
+  <dialogue ID="2030A" TexteDeBase="Oui" IDNext="2031" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="2030B" TexteDeBase="Non" IDNext="2033" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="-10" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2035A" TexteDeBase="Oui" IDNext="2036" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Julien,3"/>
+  <dialogue ID="2035B" TexteDeBase="Non" IDNext="2052" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="2045A" TexteDeBase="Oui" IDNext="2046" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2045B" TexteDeBase="Non" IDNext="2048" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+ 
+  <dialogue ID="2072A" TexteDeBase="Oui" IDNext="2073" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="2072B" TexteDeBase="Non" IDNext="2074" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 3 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="3020A" TexteDeBase="Je le jure" IDNext="3021" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3023A" TexteDeBase="Oui" IDNext="3024" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3023B" TexteDeBase="Non" IDNext="3025" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  
+  <dialogue ID="3032A" TexteDeBase="Emma" IDNext="3033" RelationOption="Emma,3" IDNextRO="3034"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3032B" TexteDeBase="Victor" IDNext="3036" RelationOption="Victor,1" IDNextRO="3035"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3032C" TexteDeBase="Anne-Cécile" IDNext="3037" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3032D" TexteDeBase="Aristide" IDNext="3038" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3532B" TexteDeBase="Victor" IDNext="3036" RelationOption="Victor,1" IDNextRO="3035"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3532C" TexteDeBase="Aristide" IDNext="3038" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3532D" TexteDeBase="Anne-Cécile" IDNext="3037" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3039A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3043" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3039B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3044" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3039C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3045" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3039D" TexteDeBase="Mon avis doit rester secret." IDNext="3046" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3040A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3047" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3040B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3048" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3040C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3049" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3040D" TexteDeBase="Mon avis doit rester secret." IDNext="3050" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3041A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3051" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3041B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3052" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3041C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3053" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3041D" TexteDeBase="Mon avis doit rester secret." IDNext="3054" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3042A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3055" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3042B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3056" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3042C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3057" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3042D" TexteDeBase="Mon avis doit rester secret." IDNext="3058" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3059D" TexteDeBase="Non" IDNext="3102" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3059A" TexteDeBase="Victor" IDNext="3065" RelationOption="Victor,1" IDNextRO="3064"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3059B" TexteDeBase="Anne-Cécile" IDNext="3066" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3059C" TexteDeBase="Aristide" IDNext="3067" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3060A" TexteDeBase="Emma" IDNext="3069" RelationOption="Emma,3" IDNextRO="3068"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3060D" TexteDeBase="Non" IDNext="3102" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3060B" TexteDeBase="Anne-Cécile" IDNext="3070" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3060C" TexteDeBase="Aristide" IDNext="3071" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3061A" TexteDeBase="Emma" IDNext="3073" RelationOption="Emma,3" IDNextRO="3072"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3061B" TexteDeBase="Victor" IDNext="3075" RelationOption="Victor,1" IDNextRO="3074"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3061D" TexteDeBase="Non" IDNext="3102" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3061C" TexteDeBase="Aristide" IDNext="3076" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3062A" TexteDeBase="Emma" IDNext="3078" RelationOption="Emma,3" IDNextRO="3077"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3062B" TexteDeBase="Victor" IDNext="3080" RelationOption="Victor,1" IDNextRO="3079"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3062C" TexteDeBase="Anne-Cécile" IDNext="3081" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3062D" TexteDeBase="Non" IDNext="3102" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3082A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3086" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3082B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3087" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3082C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3088" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3082D" TexteDeBase="Mon avis doit rester secret." IDNext="3089" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3083A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3090" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3083B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3091" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3083C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3092" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3083D" TexteDeBase="Mon avis doit rester secret." IDNext="3093" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3084A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3094" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3084B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3095" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3084C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3096" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3084D" TexteDeBase="Mon avis doit rester secret." IDNext="3097" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3085A" TexteDeBase="Le procès vient seulement de commencer, attendons de voir." IDNext="3098" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3085B" TexteDeBase="Cette histoire d'adultère est louche, le motif de cet emportement est valable." IDNext="3099" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3085C" TexteDeBase="L'accusé a osé tirer sur sa petite amie, je ne vois pas comment on peut faire cela." IDNext="3100" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3085D" TexteDeBase="Mon avis doit rester secret." IDNext="3101" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3107A" TexteDeBase="Écouter le témoignage de l'accusé." IDNext="3108" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3107B" TexteDeBase="Se satisfaire des faits." IDNext="3112" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3119A" TexteDeBase="Regarder l'accusé dans les yeux." IDNext="3120" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3119B" TexteDeBase="Plonger dans mes notes." IDNext="3121" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3119C" TexteDeBase="Découvrir la réaction de la plaignante." IDNext="3122" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3127A" TexteDeBase="Oui, je me suis vu dans le box." IDNext="3128" RelationOption="-1" IDNextRO="-1"  ModEmotion="5"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3127B" TexteDeBase="Non (mensonge)." IDNext="3130" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="3152A" TexteDeBase="Oui, ça va parfaitement (mensonge)." IDNext="3153" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="5" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="3152B" TexteDeBase="Non, je me sens fatigué." IDNext="3154" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 4 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="4021A" TexteDeBase="Je ne crois pas quelqu'un qui a tiré sur sa petite-amie." IDNext="4022" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4021B" TexteDeBase="Peut-être qu'il est sincère mais il n'y a pas de façon de le vérifier." IDNext="4022" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4021C" TexteDeBase="J'ai été ému par sa déclaration, il m'a paru sincère." IDNext="4022" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+  <dialogue ID="4045A" TexteDeBase="Oui" IDNext="4046" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="4045B" TexteDeBase="Non" IDNext="4053" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4046A" TexteDeBase="M. Cléroni, pensez-vous vraiment que votre geste n'était pas volontaire ?" IDNext="4047" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4046B" TexteDeBase="M. Cléroni, je ne vois pas où sont les preuves d'une tromperie. Sur quoi vous basez-vous ?" IDNext="4050" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4047A" TexteDeBase="Donner la question au Président pour qu'il la pose, au risque qu'il trahisse votre pensée." IDNext="4048" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4047B" TexteDeBase="Préférer poser la question directement à l'accusé" IDNext="9005" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4050A" TexteDeBase="Donner la question au Président pour qu'il la pose, au risque qu'il trahisse votre pensée." IDNext="4051" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4050B" TexteDeBase="Préférer poser la question directement à l'accusé" IDNext="9006" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4059A" TexteDeBase="Ce fût un moment fort de ce procès, il a marqué la journée." IDNext="9007" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4059B" TexteDeBase="Je ne souhaite pas vous répondre, merci, bonne soirée." IDNext="4060" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4062A" TexteDeBase="Oui" IDNext="4063" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4062B" TexteDeBase="Non" IDNext="4066" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4072A" TexteDeBase="Ce fût un moment fort de ce procès, il a marqué la journée." IDNext="9008" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4072B" TexteDeBase="Je ne souhaite pas vous répondre, merci, bonne soirée." IDNext="4074" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="4076A" TexteDeBase="Oui" IDNext="4077" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="4076B" TexteDeBase="Non" IDNext="4080" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 5 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="5009A" TexteDeBase="Cela m'a dérangé." IDNext="5010" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5009B" TexteDeBase="Je comprends." IDNext="5012" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="5009C" TexteDeBase="Pourquoi avoir reformulé ?" IDNext="5014" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5808A" TexteDeBase="Je n'avais pas envie d'en rajouter une couche." IDNext="5809" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5808B" TexteDeBase="Les faits sont bien plus parlant que les mots." IDNext="5811" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+<!--
+  <dialogue ID="5044A" TexteDeBase="Il ne me manque qu'un bonnet !" IDNext="5045" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5044B" TexteDeBase="J'ai seulement quelques rides en plus !" IDNext="5046" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+-->
+  <dialogue ID="5048A" TexteDeBase="C'est une tentative d'assassinat." IDNext="5049" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5048B" TexteDeBase="C'est une tentative de meurtre." IDNext="5050" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5048C" TexteDeBase="C'est un accident dramatique." IDNext="5051" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5048D" TexteDeBase="Mon avis doit rester secret." IDNext="5052" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5065A" TexteDeBase="La victime cherche à nous influencer." IDNext="5066" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5065B" TexteDeBase="Cela doit être dur pour elle de se lancer." IDNext="5067" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5065C" TexteDeBase="Le Président fait bien son travail." IDNext="5068" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5081A" TexteDeBase="Cela change complètement la donne." IDNext="5082" RelationOption="-1" IDNextRO="-1"  ModEmotion="10"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5081B" TexteDeBase="C'est un élément à prendre en compte, je prends note." IDNext="5083" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5081C" TexteDeBase="Cette information ne me paraît pas importante." IDNext="5084" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5091A" TexteDeBase="Avocat de la partie civile." IDNext="5092" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5091B" TexteDeBase="Avocat général." IDNext="5094" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5091C" TexteDeBase="Avocat de la défense." IDNext="5096" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5098A" TexteDeBase="Avocat général." IDNext="5103" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5098B" TexteDeBase="Avocat de la défense." IDNext="5105" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5099A" TexteDeBase="Avocat de la partie civile." IDNext="5101" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5099B" TexteDeBase="Avocat de la défense." IDNext="5105" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5100A" TexteDeBase="Avocat de la partie civile." IDNext="5101" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5100B" TexteDeBase="Avocat général." IDNext="5103" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5108A" TexteDeBase="Avocat de la partie civile." IDNext="5109" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5108B" TexteDeBase="Avocat général." IDNext="5111" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5108C" TexteDeBase="Avocat de la défense." IDNext="5113" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5116A" TexteDeBase="Certaines incohérences remettent complètement en cause sa sincérité." IDNext="5118" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5116B" TexteDeBase="Peut-être qu'elle est sincère, mais il n'y a pas de façon de vérifier." IDNext="5118" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5116C" TexteDeBase="Je reste complètement persuadé de sa sincérité." IDNext="5118" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="10" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5123A" TexteDeBase="Oui." IDNext="5124" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5123B" TexteDeBase="Non." IDNext="5129" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5125A" TexteDeBase="Oui." IDNext="5126" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5125B" TexteDeBase="Non." IDNext="5128" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5136A" TexteDeBase="Revenir avec les autres sur les témoignages des experts" IDNext="5137" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5136B" TexteDeBase="Convaincre Pascal que mon intime conviction est la bonne." IDNext="5143" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5151A" TexteDeBase="5 septembre 2014" IDNext="5451" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5151B" TexteDeBase="5 octobre 2014" IDNext="5451" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5151C" TexteDeBase="5 novembre 2014" IDNext="5351" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5151D" TexteDeBase="5 décembre 2014" IDNext="5451" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5152A" TexteDeBase="Une." IDNext="5452" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5152B" TexteDeBase="Deux." IDNext="5352" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5152C" TexteDeBase="Trois." IDNext="5452" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5152D" TexteDeBase="Quatre." IDNext="5452" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5153A" TexteDeBase="Il a appelé le voisinage à l'aide." IDNext="5453" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5153B" TexteDeBase="Il a téléphoné aux pompiers." IDNext="5453" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5153C" TexteDeBase="Il a prodigué les premiers secours." IDNext="5453" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5153D" TexteDeBase="Il est rentré dans la maison." IDNext="5353" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5154A" TexteDeBase="Greffe de l'intestin" IDNext="5454" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5154B" TexteDeBase="Greffe du pancréas" IDNext="5454" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5154C" TexteDeBase="Greffe du rein" IDNext="5354" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5154D" TexteDeBase="Greffe du foie" IDNext="5454" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5155A" TexteDeBase="Jean Bertaudeau" IDNext="5355" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5155B" TexteDeBase="Elliott Lamenière" IDNext="5455" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5155C" TexteDeBase="Jean-Charles Bonvallet" IDNext="5455" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5155D" TexteDeBase="Loïc Ponthieur" IDNext="5455" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5157A" TexteDeBase="5 septembre 2014" IDNext="5457" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5157B" TexteDeBase="5 octobre 2014" IDNext="5457" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5157C" TexteDeBase="5 novembre 2014" IDNext="5357" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5157D" TexteDeBase="5 décembre 2014" IDNext="5457" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5158A" TexteDeBase="Une." IDNext="5458" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5158B" TexteDeBase="Deux." IDNext="5358" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5158C" TexteDeBase="Trois." IDNext="5458" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5158D" TexteDeBase="Quatre." IDNext="5458" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5159A" TexteDeBase="Il a appelé le voisinage à l'aide." IDNext="5459" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5159B" TexteDeBase="Il a téléphoné aux pompiers." IDNext="5459" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5159C" TexteDeBase="Il a prodigué les premiers secours." IDNext="5459" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5159D" TexteDeBase="Il est rentré dans la maison." IDNext="5359" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5160A" TexteDeBase="Greffe de l'intestin" IDNext="5460" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5160B" TexteDeBase="Greffe du pancréas" IDNext="5460" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5160C" TexteDeBase="Greffe du rein" IDNext="5360" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5160D" TexteDeBase="Greffe du foie" IDNext="5460" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="5161A" TexteDeBase="Jean Bertaudeau" IDNext="5361" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5161B" TexteDeBase="Elliott Lamenière" IDNext="5461" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5161C" TexteDeBase="Jean-Charles Bonvallet" IDNext="5461" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="5161D" TexteDeBase="Loïc Ponthieur" IDNext="5461" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  
+  <dialogue ID="5195A" TexteDeBase="Le témoin ment." IDNext="5196" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Attention"/>
+  <dialogue ID="5195B" TexteDeBase="Le témoin dit la vérité." IDNext="5197" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 6 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="6029A" TexteDeBase="Lourde" IDNext="6030" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Charles-Henri,1"/>
+  <dialogue ID="6029B" TexteDeBase="Juste" IDNext="6031" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Charles-Henri,2"/>
+  <dialogue ID="6029C" TexteDeBase="Légère" IDNext="6032" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="Charles-Henri,3"/>
+
+
+
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+  <!-- //////////////////////////////////Dialogue chapitre 7 //////////////////////////////////////////////////// -->
+  <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+
+  <dialogue ID="7008A" TexteDeBase="Oui" IDNext="7009" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7008B" TexteDeBase="Non" IDNext="7016" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7009A" TexteDeBase="Comment ça, « préméditer son geste » ?" IDNext="7010" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7009B" TexteDeBase="Pourquoi pas un accident ?" IDNext="7013" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7023A" TexteDeBase="Oui" IDNext="7024" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7023B" TexteDeBase="Non" IDNext="7030" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7024A" TexteDeBase="C'est le Président qui a évoqué cela." IDNext="7025" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7024B" TexteDeBase="C'est l'enquêteur de personnalité qui a évoqué cela." IDNext="7028" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7236A" TexteDeBase="Se ranger du côté d’Aristide." IDNext="7237" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7236B" TexteDeBase="Ne pas se ranger du côté d’Aristide." IDNext="7238" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7248A" TexteDeBase="Oui" IDNext="7249" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7248B" TexteDeBase="Non" IDNext="7253" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7258A" TexteDeBase="Oui" IDNext="7259" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7258B" TexteDeBase="Non" IDNext="7253" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+  <dialogue ID="7265A" TexteDeBase="Oui" IDNext="7266" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+  <dialogue ID="7265B" TexteDeBase="Non" IDNext="7268" RelationOption="-1" IDNextRO="-1"  ModEmotion="0"  ModConviction="0" Lieu="-1" Note="-1" Journal="-1"/>
+
+</dialogues>

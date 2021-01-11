@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c5a820df08684df4fbffd6793b78b6ee
+timeCreated: 1498471918
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Handlee
+  fontNames:
+  - Handlee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
